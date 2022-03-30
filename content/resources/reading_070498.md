@@ -6,6 +6,7 @@ description: This file contains reading assignment by Louise Kellogg and Stein J
   atmospheres and binary mixing of enriched and undegassed (primitive?) mantle components.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/c1478d10daea1c68427e604e022938a9_reading_070498.pdf
 file_type: application/pdf
+parent_uid: f16b8be9-9ddf-f4bc-45fd-139c0c3f8b42
 resourcetype: Document
 title: reading_070498.pdf
 uid: c1478d10-daea-1c68-427e-604e022938a9
